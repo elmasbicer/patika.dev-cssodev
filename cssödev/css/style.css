@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: #f3f3f3;
+}
+h1{
+    color: #101925;
+}
+a{
+    color:#191d3a ;
+    font-size: 23pt;
+    margin: 10px;
+}
+h2 {
+    color: #101925;
+}
+.list {
+    color: #101925;
+     list-style-type:none;
+    font-size: 17pt;
+    list-style-position: inside;
+}
+p {
+    text-align: center; 
+    font-size: 17pt; 
+    color: #101925;
+}
+/* renk paleti
+background:#f3f3f3
+a:#191d3a
+.color1 {color: #000000;}
+.color2 {color: #101925;}
+.color3 {color: #576378;}
+.color4 {color: #a6b1cf;}
+.color5 {color: #d6e2e7;}
+ */
